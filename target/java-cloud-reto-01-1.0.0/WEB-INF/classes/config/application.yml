@@ -1,6 +1,0 @@
-spring:
-  jackson:
-    default-property-inclusion: non_empty
-
-parameter:
-  life-expectancy: 75.98
